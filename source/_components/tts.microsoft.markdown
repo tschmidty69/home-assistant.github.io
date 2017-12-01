@@ -45,8 +45,15 @@ tts:
     language: en-gb
     gender: Male
     type: George, Apollo
+<<<<<<< HEAD
     rate: 20
     volume: -50
     pitch: high
     contour: (0, 0) (100, 100)
+=======
+    rate: +20%
+    volume: -50%
+    pitch: high
+    contour: (0%, +0%) (100%, +100%)
+>>>>>>> Update tts.microsoft.markdown (#3923)
 ```
